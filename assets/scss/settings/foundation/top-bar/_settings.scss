@@ -1,0 +1,18 @@
+//Sticky Class
+$topbar-sticky-class: ".sticky";
+$topbar-arrows: true;
+
+//Divider Styles
+$topbar-divider-border-bottom: solid 1px scale_color($topbar-bg-color, $lightness: 13%);
+$topbar-divider-border-top: solid 1px scale_color($topbar-bg-color, $lightness: -50%);
+
+//Transitions and breakpoint styles
+$topbar-transition-speed: 300ms;
+
+//Using rem-calc for the below breakpoint causes issues with top bar
+$topbar-breakpoint: 9999px;
+$topbar-media-query: '#{$screen} and (min-width:#{lower-bound($topbar-breakpoint)}';
+
+//Height and margin
+$topbar-height: rem-calc(45);
+$topbar-margin-bottom: 0;

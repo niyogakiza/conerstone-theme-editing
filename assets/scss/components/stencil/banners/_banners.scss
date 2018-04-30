@@ -11,9 +11,11 @@
 // -----------------------------------------------------------------------------
 
 .banners {
-    background-color: stencilColor("color-primary");
+    background-color: stencilColor("color-infoLight");
     color: stencilColor("color-white");
     padding: spacing("half") 0;
+    margin-top: 5px;
+    margin-bottom: 4px;
     text-align: center;
 
     p:last-child {
@@ -30,5 +32,7 @@
 
     + .banner {
         margin-top: spacing("single");
+
+
     }
 }

@@ -1,10 +1,4 @@
-{{#if banners.top}}
-<div class="banners" data-banner-location="top">
-    <div class="banner">
-        {{{limit banners.top 1}}}
-    </div>
-</div>
-{{/if}}
+
 <header class="header" role="banner">
     <a href="#" class="mobileMenu-toggle" data-mobile-menu-toggle="menu">
         <span class="mobileMenu-toggleIcon">Toggle menu</span>
@@ -20,9 +14,18 @@
             {{> components/common/store-logo}}
         </div>
     {{/if}}
+
     {{{region name="header_bottom"}}}
     <div class="navPages-container" id="menu" data-menu>
         {{> components/common/navigation-menu}}
     </div>
+    {{#if banners.top}}
+    <div class="banners" data-banner-location="top">
+        <div class="banner">
+            <!--{{{limit banners.top 1}}}-->
+            <span>Free UK Delivery with orders of £50 and over &nbsp; </span> |  <span>&nbsp;<a href="http://localhost:3000/login.php?action=create_account" style="text-decoration: none">10% off your first order if you sign up for our emails </a> &nbsp;</span>   |   <span>&nbsp; Orderline 01270 821194 Mon to Fri 9-5 </span>
+        </div>
+    </div>
+    {{/if}}
 
 </header>

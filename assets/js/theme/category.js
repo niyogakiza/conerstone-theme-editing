@@ -11,6 +11,17 @@ export default class Category extends CatalogPage {
             this.onSortBySubmit = this.onSortBySubmit.bind(this);
             hooks.on('sortBy-submitted', this.onSortBySubmit);
         }
+        // let originalImage;
+        // let imageHover;
+        //
+        // function imageSwither() {
+        //     originalImage = data-src;
+        //     imageHover = data-hover;
+        //     src = imageHover;
+        // }
+        // function restore() {
+        //
+        // }
     }
 
     initFacetedSearch() {

@@ -1,7 +1,10 @@
+/* eslint-disable no-trailing-spaces */
 import 'foundation-sites/js/foundation/foundation';
 import 'foundation-sites/js/foundation/foundation.dropdown';
 import 'foundation-sites/js/foundation/foundation.reveal';
 import 'foundation-sites/js/foundation/foundation.tab';
+import 'foundation-sites/js/foundation/foundation.topbar';
+import $ from 'jquery';
 import modalFactory from './modal';
 import revealCloseFactory from './reveal-close';
 
@@ -18,6 +21,11 @@ export default function ($element) {
         },
         tab: {
             active_class: 'is-active',
+        },
+        topbar: {
+            sticky_class: 'sticky',
+            screenTop: true,
+            is_hover: true,
         },
     });
 

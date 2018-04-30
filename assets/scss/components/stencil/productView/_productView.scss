@@ -149,6 +149,7 @@
     color: $productView-brand-link-color;
     font-size: fontSize("smaller");
     margin: 0 0 spacing("half");
+    display: none;
 
     @include breakpoint("large") {
         font-size: fontSize("small");

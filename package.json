@@ -13,6 +13,7 @@
     "fastclick": "^1.0.6",
     "foundation-sites": "^5.5.3",
     "html5-history-api": "^4.2.7",
+    "instafeed": "^2.0.0",
     "jquery": "^3.3.1",
     "jquery-migrate": "^1.4.1",
     "jstree": "vakata/jstree",
@@ -20,6 +21,9 @@
     "lodash": "^4.17.4",
     "nod-validate": "^2.0.12",
     "pace": "hubspot/pace#a03f1f1de62c9cea6c88b2267b8d7a83858b6cb6",
+    "react": "^16.3.2",
+    "react-dom": "^16.3.2",
+    "react-sticky": "^6.0.2",
     "slick-carousel": "^1.8.1",
     "sweetalert2": "^6.10.1"
   },

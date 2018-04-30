@@ -1,0 +1,25 @@
+.navPages-container {
+  border-top: 1px solid rgb(232, 232, 232);
+  position: sticky;
+  height: 45em;
+  display: block;
+  //-webkit-transform: translateZ(0);
+}
+.navPages{
+  width: 100%;
+  z-index: 10;
+  transition: height .25s ease;
+  height: 4.5em;
+  padding-right: 0;
+  .navPages-list,  .navPages-list--user{
+    transition: padding-top .25s ease;
+    padding-top: 1.4em;
+  }
+  &shrink{
+    //height: 3em;
+    .navPages-list,  .navPages-list--user{
+      padding-top: 0;
+    }
+  }
+}
+
