@@ -3,27 +3,31 @@
     <a href="#" class="mobileMenu-toggle" data-mobile-menu-toggle="menu">
         <span class="mobileMenu-toggleIcon">Toggle menu</span>
     </a>
-    {{> components/common/navigation}}
 
-    {{#if page_type '===' 'default'}}
-        <h1 class="header-logo header-logo--{{theme_settings.logo-position}}">
-            {{> components/common/store-logo}}
-        </h1>
-    {{else}}
-        <div class="header-logo header-logo--{{theme_settings.logo-position}}">
-            {{> components/common/store-logo}}
-        </div>
-    {{/if}}
+    <!--{{> components/common/navigation}}-->
 
     {{{region name="header_bottom"}}}
+    {{> components/common/navigation}}
+    {{#if page_type '===' 'default'}}
+    <h1 class="header-logo header-logo--{{theme_settings.logo-position}}">
+        {{> components/common/store-logo}}
+
+    </h1>
+    {{else}}
+    <div class="header-logo header-logo--{{theme_settings.logo-position}}">
+        {{> components/common/store-logo}}
+    </div>
+    {{/if}}
     <div class="navPages-container" id="menu" data-menu>
         {{> components/common/navigation-menu}}
     </div>
+
     {{#if banners.top}}
     <div class="banners" data-banner-location="top">
         <div class="banner">
             <!--{{{limit banners.top 1}}}-->
-            <span>Free UK Delivery with orders of £50 and over &nbsp; </span> |  <span>&nbsp;<a href="http://localhost:3000/login.php?action=create_account" style="text-decoration: none">10% off your first order if you sign up for our emails </a> &nbsp;</span>   |   <span>&nbsp; Orderline 01270 821194 Mon to Fri 9-5 </span>
+            {{> components/aima/temporarybanner}}
+            <!--<span>Free UK Delivery with orders of £50 and over &nbsp; </span> |  <span>&nbsp;<a href="http://localhost:3000/login.php?action=create_account" style="text-decoration: none">10% off your first order if you sign up for our emails </a> &nbsp;</span>   |   <span>&nbsp; Orderline 01270 821194 Mon to Fri 9-5 </span>-->
         </div>
     </div>
     {{/if}}

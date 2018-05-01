@@ -89,6 +89,9 @@
 
 .header-logo--left {
     text-align: left;
+    top: 0;
+    margin-top: 0;
+    margin-bottom: 60px;
 
     @include breakpoint("medium") {
         margin-left: remCalc(40px);

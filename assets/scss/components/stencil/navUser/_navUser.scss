@@ -67,6 +67,7 @@
     padding: spacing("base") spacing("half");
     text-decoration: none;
     text-transform: uppercase;
+    float: bottom;
 
     &:hover,
     &.is-open {
@@ -253,20 +254,20 @@
         z-index: zIndex("high");
     }
 
-    .form {
-        margin: auto;
-        max-width: 30rem;
-    }
-
-    .form,
-    .form-field {
-        margin-bottom: 0;
-    }
-
-    .form-input {
-        font-size: fontSize("small");
-        height: unset;
-    }
+    //.form {
+    //    margin: auto;
+    //    max-width: 30rem;
+    //}
+    //
+    //.form,
+    //.form-field {
+    //    margin-bottom: 0;
+    //}
+    //
+    //.form-input {
+    //    font-size: fontSize("small");
+    //    height: unset;
+    //}
 
     .productGrid {
         padding: spacing("single") 0 0;
@@ -305,4 +306,20 @@
 .countPill--alt {
     background-color: color("greys", "lighter");
     color: color("greys", "darker");
+}
+.form {
+    margin: auto;
+    max-width: 30rem;
+}
+
+.form,
+.form-field {
+    margin-bottom: 0;
+}
+
+.form-input {
+    font-size: fontSize("small");
+    height: 40px;
+    margin-top: 30px;
+    margin-bottom: -100px;
 }

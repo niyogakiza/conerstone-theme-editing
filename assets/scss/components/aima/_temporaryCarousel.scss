@@ -1,0 +1,125 @@
+//.temporalyHeroCarousel{
+//  display: grid;
+//  grid-gap: 20px;
+//  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+//}
+//
+//.heroCarousel-image-a{
+//  margin-bottom: 50px;
+//}
+//.temporalyHeroCarousel{
+//  max-width: 960px;
+//  margin: 0 auto 30px;
+//}
+//.temporalyHeroCarousel > heroCarousel-slide{
+//  height: 200px;
+//  width: 400px;
+//  object-fit: cover;
+//}
+//.temporalyHeroCarousel > heroCarousel-slide{
+//  border: 1px solid #cccccc;
+//  box-shadow: 2px 2px 6px 0 rgba(0,0,0,0.3);
+//}
+//.heroCarousel-content-a .button {
+//  display: inline-block;
+//  padding: 0.78571rem 1.5rem;
+//}
+//
+//
+//@media (min-width: 801px) {
+//  .slide-0 .heroCarousel-content h2, .slide-0 .heroCarousel-content p, .slide-0 .heroCarousel-content span {
+//    display: inline-block;
+//  }
+//}
+//.heroCarousel-content-a h2,span {
+//   display: inline;
+//  margin-left: 200px;
+//}
+//.button{
+//  display: block;
+//  text-decoration: none;
+//  background-color: #1a1a1a;
+//  color: #e6e6e6;
+//  border-color: #1a1a1a;
+//  width: 200px;
+//  margin-left: 50px;
+//}
+//a{
+//  text-decoration: none;
+//}
+//.heroCarousel-title{
+//  text-align: center;
+//  font-size: medium;
+//}
+.temporalyHeroCarousel {
+  display: grid;
+  grid-gap: 20px;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+}
+
+.heroCarousel-image-a {
+  //margin-bottom: 50px;
+}
+
+.temporalyHeroCarousel {
+  max-width: 960px;
+  margin: 0 auto 30px;
+  > heroCarousel-slide {
+    height: 200px;
+    width: 400px;
+    object-fit: cover;
+    border: 1px solid #cccccc;
+    box-shadow: 2px 2px 6px 0 rgba(0, 0, 0, 0.3);
+  }
+}
+
+.heroCarousel-content-a {
+  background-color: #d7d7d7;
+  padding: 0.78571rem 1.5rem;
+  margin-bottom: 30px;
+  .button {
+    display: inline-block;
+    padding: 0.78571rem 1.5rem;
+  }
+  h2 {
+    display: inline;
+    margin-left: 200px;
+  }
+}
+.heroCarousel-content{
+  background-color: #d7d7d7;
+  padding: 0.78571rem 1.5rem;
+}
+
+@media (min-width: 801px) {
+  .slide-0 .heroCarousel-content {
+    h2, p, span {
+      display: inline-block;
+    }
+  }
+}
+
+span {
+  display: inline;
+  margin-left: 200px;
+}
+
+.button {
+  display: block;
+  text-decoration: none;
+  background-color: #1a1a1a;
+  color: #e6e6e6;
+  border-color: #1a1a1a;
+  width: 200px;
+  margin-left: 50px;
+}
+
+a {
+  text-decoration: none;
+}
+
+.heroCarousel-title {
+  text-align: center;
+  font-size: medium;
+  color: #1a1a1a;
+}

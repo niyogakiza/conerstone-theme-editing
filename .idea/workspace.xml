@@ -2,39 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c374b2aa-0658-4e00-91bd-a8a4f95a2db8" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/js/theme/global/Blog.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/components/foundation/top-bar/_component.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/components/foundation/top-bar/_top-bar.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/settings/foundation/top-bar/_settings.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/scss/components/aima/_component.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/scss/components/aima/_temporaryCarousel.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/scss/components/aima/bannerTemporary/_bannerTemporary.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/scss/components/aima/bannerTemporary/_component.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/components/aima/temporaryCarousel.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/components/aima/temporarybanner.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/assets/js/theme/category.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/js/theme/category.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/js/theme/global/foundation.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/js/theme/global/foundation.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/scss/components/_components.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/scss/components/_components.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/scss/components/stencil/banners/_banners.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/scss/components/stencil/banners/_banners.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/assets/scss/components/stencil/heroCarousel/_heroCarousel.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/scss/components/stencil/heroCarousel/_heroCarousel.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/scss/components/stencil/navPages/_component.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/scss/components/stencil/navPages/_component.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/scss/components/stencil/navPages/_navPages.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/scss/components/stencil/navPages/_navPages.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/scss/components/stencil/productView/_productView.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/scss/components/stencil/productView/_productView.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/scss/settings/foundation/_foundation.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/scss/settings/foundation/_foundation.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/scss/settings/global/color/_color.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/scss/settings/global/color/_color.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/scss/components/stencil/navUser/_navUser.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/scss/components/stencil/navUser/_navUser.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/scss/layouts/header/_header.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/scss/layouts/header/_header.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/scss/theme.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/scss/theme.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/config.json" beforeDir="false" afterPath="$PROJECT_DIR$/config.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/schema.json" beforeDir="false" afterPath="$PROJECT_DIR$/schema.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/components/amp/common/footer.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/components/amp/common/footer.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/components/amp/common/navigation-menu.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/components/amp/common/navigation-menu.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/components/amp/css/header.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/components/amp/css/header.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/components/amp/products/list-item.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/components/amp/products/list-item.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/components/amp/products/product-view.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/components/amp/products/product-view.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/components/carousel.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/components/carousel.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/templates/components/common/footer.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/components/common/footer.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/templates/components/common/header.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/components/common/header.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/components/common/navigation-menu.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/components/common/navigation-menu.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/components/products/card.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/components/products/card.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/components/products/carousel.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/components/products/carousel.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/layout/amp.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/layout/amp.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/layout/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/layout/base.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/pages/amp/category.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/pages/amp/category.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/templates/pages/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/pages/home.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -49,47 +31,97 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="carousel.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/templates/components/carousel.html">
+      <file leaf-file-name="temporarybanner.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/templates/components/aima/temporarybanner.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="52">
-              <caret line="2" column="63" selection-start-line="2" selection-start-column="63" selection-end-line="2" selection-end-column="63" />
+            <state relative-caret-position="84">
+              <caret line="3" column="22" selection-start-line="3" selection-start-column="22" selection-end-line="3" selection-end-column="22" />
+              <folding>
+                <element signature="e#117#123#0" expanded="true" />
+                <element signature="e#123#129#0" expanded="true" />
+                <element signature="e#129#135#0" expanded="true" />
+                <element signature="e#175#181#0" expanded="true" />
+                <element signature="e#181#187#0" expanded="true" />
+                <element signature="e#187#193#0" expanded="true" />
+                <element signature="e#280#286#0" expanded="true" />
+                <element signature="e#286#292#0" expanded="true" />
+                <element signature="e#292#298#0" expanded="true" />
+                <element signature="e#320#326#0" expanded="true" />
+                <element signature="e#326#332#0" expanded="true" />
+                <element signature="e#332#338#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="_heroCarousel.scss" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/assets/scss/components/stencil/heroCarousel/_heroCarousel.scss">
+      <file leaf-file-name="temporaryCarousel.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/templates/components/aima/temporaryCarousel.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="172">
-              <caret line="149" column="62" lean-forward="true" selection-start-line="149" selection-start-column="62" selection-end-line="149" selection-end-column="62" />
+            <state relative-caret-position="252">
+              <caret line="9" column="6" lean-forward="true" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="6" />
             </state>
           </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="header.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/templates/components/common/header.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="812">
+              <caret line="29" column="332" lean-forward="true" selection-start-line="29" selection-start-column="10" selection-end-line="29" selection-end-column="332" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="_component.scss" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/assets/scss/components/aima/bannerTemporary/_component.scss">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file leaf-file-name="config.json" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/config.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="286">
-              <caret line="179" column="34" selection-start-line="179" selection-start-column="34" selection-end-line="179" selection-end-column="34" />
+            <state relative-caret-position="-246">
+              <caret line="75" column="24" lean-forward="true" selection-start-line="75" selection-start-column="24" selection-end-line="75" selection-end-column="24" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="carousel.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/templates/components/products/carousel.html">
+      <file leaf-file-name="_bannerTemporary.scss" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/assets/scss/components/aima/bannerTemporary/_bannerTemporary.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="206">
+              <caret line="10" column="19" lean-forward="true" selection-start-line="10" selection-start-column="19" selection-end-line="10" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="footer.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/templates/components/common/footer.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="6300">
+              <caret line="225" lean-forward="true" selection-start-line="225" selection-end-line="225" />
+              <folding>
+                <element signature="e#6495#6500#0" expanded="true" />
+                <element signature="e#12019#12025#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="_temporaryCarousel.scss" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/assets/scss/components/aima/_temporaryCarousel.scss">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="513">
-              <caret line="19" column="37" selection-start-line="19" selection-start-column="37" selection-end-line="19" selection-end-column="37" />
+              <caret line="123" column="17" selection-start-line="123" selection-start-column="17" selection-end-line="123" selection-end-column="17" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="schema.json" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/schema.json">
+      <file leaf-file-name="theme.scss" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/assets/scss/theme.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="151">
-              <caret line="1147" column="25" selection-start-line="1147" selection-start-column="25" selection-end-line="1147" selection-end-column="25" />
+            <state relative-caret-position="541">
+              <caret line="88" selection-start-line="88" selection-end-line="88" />
             </state>
           </provider>
         </entry>
@@ -99,16 +131,14 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="JavaScript File" />
         <option value="HTML File" />
         <option value="SCSS File" />
-        <option value="JavaScript File" />
       </list>
     </option>
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>Banner</find>
-      <find>data-banner</find>
       <find>discoun</find>
       <find>pr</find>
       <find>product-carousel</find>
@@ -137,6 +167,8 @@
       <find>1160px</find>
       <find>product-images</find>
       <find>product_images</find>
+      <find>dropdown--quickSearch-backgroundColor</find>
+      <find>heroCarousel-title</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -145,28 +177,15 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/assets/scss/components/stencil/heroCarousel-test/_testComponent.scss" />
-        <option value="$PROJECT_DIR$/assets/scss/components/stencil/heroCarousel-test/_testHero.scss" />
-        <option value="$PROJECT_DIR$/templates/components/hero.html" />
-        <option value="$PROJECT_DIR$/assets/scss/components/stencil/banner/_component.scss" />
-        <option value="$PROJECT_DIR$/assets/scss/components/stencil/banner/_banner.scss" />
-        <option value="$PROJECT_DIR$/templates/components/banner/banner.html" />
-        <option value="$PROJECT_DIR$/templates/pages/page.html" />
-        <option value="$PROJECT_DIR$/assets/scss/components/stencil/productCarousel/_productCarousel.scss" />
-        <option value="$PROJECT_DIR$/assets/scss/components/foundation/lazyLoad/_lazyLoad.scss" />
-        <option value="$PROJECT_DIR$/templates/pages/brand.html" />
-        <option value="$PROJECT_DIR$/assets/scss/components/stencil/productView/_productView.scss" />
         <option value="$PROJECT_DIR$/assets/scss/components/stencil/banners/_banners.scss" />
         <option value="$PROJECT_DIR$/templates/components/amp/products/product-view-details.html" />
         <option value="$PROJECT_DIR$/templates/components/amp/common/header.html" />
         <option value="$PROJECT_DIR$/templates/components/common/navigation-menu.html" />
-        <option value="$PROJECT_DIR$/templates/components/common/footer.html" />
         <option value="$PROJECT_DIR$/assets/scss/components/stencil/navPages/_component.scss" />
         <option value="$PROJECT_DIR$/assets/js/theme/global/menu.js" />
         <option value="$PROJECT_DIR$/assets/js/theme/global/Navigation.js" />
         <option value="$PROJECT_DIR$/assets/js/app.js" />
         <option value="$PROJECT_DIR$/templates/components/carousel-content.html" />
-        <option value="$PROJECT_DIR$/templates/pages/home.html" />
         <option value="$PROJECT_DIR$/assets/scss/components/stencil/navPages/_navPages.scss" />
         <option value="$PROJECT_DIR$/assets/scss/components/foundation/top-bar/_component.scss" />
         <option value="$PROJECT_DIR$/assets/scss/settings/foundation/top-bar/_settings.scss" />
@@ -185,16 +204,30 @@
         <option value="$PROJECT_DIR$/templates/components/amp/css/header.html" />
         <option value="$PROJECT_DIR$/templates/components/amp/common/navigation-menu.html" />
         <option value="$PROJECT_DIR$/schema.json" />
-        <option value="$PROJECT_DIR$/templates/components/common/header.html" />
         <option value="$PROJECT_DIR$/assets/js/theme/global/Blog.js" />
         <option value="$PROJECT_DIR$/assets/js/theme/blog.js" />
-        <option value="$PROJECT_DIR$/config.json" />
         <option value="$PROJECT_DIR$/templates/components/products/card.html" />
-        <option value="$PROJECT_DIR$/assets/js/theme/category.js" />
         <option value="$PROJECT_DIR$/assets/scss/components/foundation/breadcrumbs/_breadcrumbs.scss" />
         <option value="$PROJECT_DIR$/templates/components/products/carousel.html" />
-        <option value="$PROJECT_DIR$/assets/scss/components/stencil/heroCarousel/_heroCarousel.scss" />
         <option value="$PROJECT_DIR$/templates/components/carousel.html" />
+        <option value="$PROJECT_DIR$/assets/js/theme/category.js" />
+        <option value="$PROJECT_DIR$/assets/scss/components/foundation/forms/_forms.scss" />
+        <option value="$PROJECT_DIR$/assets/scss/layouts/header/_header.scss" />
+        <option value="$PROJECT_DIR$/config.json" />
+        <option value="$PROJECT_DIR$/assets/scss/components/stencil/navUser/_navUser.scss" />
+        <option value="$PROJECT_DIR$/assets/scss/components/stencil/search/_search.scss" />
+        <option value="$PROJECT_DIR$/assets/scss/components/aima/temporaryCarousel.scss" />
+        <option value="$PROJECT_DIR$/assets/scss/components/aima/_component.scss" />
+        <option value="$PROJECT_DIR$/templates/pages/home.html" />
+        <option value="$PROJECT_DIR$/assets/scss/components/stencil/heroCarousel/_heroCarousel.scss" />
+        <option value="$PROJECT_DIR$/assets/scss/components/aima/bannerTemporary/_component.scss" />
+        <option value="$PROJECT_DIR$/assets/scss/theme.scss" />
+        <option value="$PROJECT_DIR$/templates/components/common/header.html" />
+        <option value="$PROJECT_DIR$/templates/components/aima/temporaryCarousel.html" />
+        <option value="$PROJECT_DIR$/assets/scss/components/aima/_temporaryCarousel.scss" />
+        <option value="$PROJECT_DIR$/templates/components/common/footer.html" />
+        <option value="$PROJECT_DIR$/assets/scss/components/aima/bannerTemporary/_bannerTemporary.scss" />
+        <option value="$PROJECT_DIR$/templates/components/aima/temporarybanner.html" />
       </list>
     </option>
   </component>
@@ -221,10 +254,10 @@
     </packageJsonPaths>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="266" />
-    <option name="y" value="34" />
-    <option name="width" value="1400" />
-    <option name="height" value="849" />
+    <option name="x" value="96" />
+    <option name="y" value="31" />
+    <option name="width" value="1552" />
+    <option name="height" value="848" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -311,6 +344,23 @@
               <item name="assets" type="462c0819:PsiDirectoryNode" />
               <item name="scss" type="462c0819:PsiDirectoryNode" />
               <item name="components" type="462c0819:PsiDirectoryNode" />
+              <item name="aima" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cornerstone" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cornerstone" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+              <item name="scss" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
+              <item name="aima" type="462c0819:PsiDirectoryNode" />
+              <item name="bannerTemporary" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cornerstone" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cornerstone" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+              <item name="scss" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
               <item name="citadel" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -319,7 +369,8 @@
               <item name="assets" type="462c0819:PsiDirectoryNode" />
               <item name="scss" type="462c0819:PsiDirectoryNode" />
               <item name="components" type="462c0819:PsiDirectoryNode" />
-              <item name="foundation" type="462c0819:PsiDirectoryNode" />
+              <item name="citadel" type="462c0819:PsiDirectoryNode" />
+              <item name="actionBar" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="cornerstone" type="b2602c69:ProjectViewProjectNode" />
@@ -328,16 +379,6 @@
               <item name="scss" type="462c0819:PsiDirectoryNode" />
               <item name="components" type="462c0819:PsiDirectoryNode" />
               <item name="foundation" type="462c0819:PsiDirectoryNode" />
-              <item name="breadcrumbs" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="cornerstone" type="b2602c69:ProjectViewProjectNode" />
-              <item name="cornerstone" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
-              <item name="scss" type="462c0819:PsiDirectoryNode" />
-              <item name="components" type="462c0819:PsiDirectoryNode" />
-              <item name="foundation" type="462c0819:PsiDirectoryNode" />
-              <item name="lazyLoad" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="cornerstone" type="b2602c69:ProjectViewProjectNode" />
@@ -350,262 +391,88 @@
             <path>
               <item name="cornerstone" type="b2602c69:ProjectViewProjectNode" />
               <item name="cornerstone" type="462c0819:PsiDirectoryNode" />
-              <item name="templates" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="cornerstone" type="b2602c69:ProjectViewProjectNode" />
-              <item name="cornerstone" type="462c0819:PsiDirectoryNode" />
-              <item name="templates" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+              <item name="scss" type="462c0819:PsiDirectoryNode" />
               <item name="components" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="cornerstone" type="b2602c69:ProjectViewProjectNode" />
-              <item name="cornerstone" type="462c0819:PsiDirectoryNode" />
-              <item name="templates" type="462c0819:PsiDirectoryNode" />
-              <item name="components" type="462c0819:PsiDirectoryNode" />
-              <item name="account" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="cornerstone" type="b2602c69:ProjectViewProjectNode" />
-              <item name="cornerstone" type="462c0819:PsiDirectoryNode" />
-              <item name="templates" type="462c0819:PsiDirectoryNode" />
-              <item name="components" type="462c0819:PsiDirectoryNode" />
-              <item name="amp" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="cornerstone" type="b2602c69:ProjectViewProjectNode" />
-              <item name="cornerstone" type="462c0819:PsiDirectoryNode" />
-              <item name="templates" type="462c0819:PsiDirectoryNode" />
-              <item name="components" type="462c0819:PsiDirectoryNode" />
-              <item name="amp" type="462c0819:PsiDirectoryNode" />
-              <item name="category" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="cornerstone" type="b2602c69:ProjectViewProjectNode" />
-              <item name="cornerstone" type="462c0819:PsiDirectoryNode" />
-              <item name="templates" type="462c0819:PsiDirectoryNode" />
-              <item name="components" type="462c0819:PsiDirectoryNode" />
-              <item name="amp" type="462c0819:PsiDirectoryNode" />
-              <item name="common" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="cornerstone" type="b2602c69:ProjectViewProjectNode" />
-              <item name="cornerstone" type="462c0819:PsiDirectoryNode" />
-              <item name="templates" type="462c0819:PsiDirectoryNode" />
-              <item name="components" type="462c0819:PsiDirectoryNode" />
-              <item name="amp" type="462c0819:PsiDirectoryNode" />
-              <item name="products" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="cornerstone" type="b2602c69:ProjectViewProjectNode" />
-              <item name="cornerstone" type="462c0819:PsiDirectoryNode" />
-              <item name="templates" type="462c0819:PsiDirectoryNode" />
-              <item name="components" type="462c0819:PsiDirectoryNode" />
-              <item name="amp" type="462c0819:PsiDirectoryNode" />
-              <item name="products" type="462c0819:PsiDirectoryNode" />
-              <item name="options" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="cornerstone" type="b2602c69:ProjectViewProjectNode" />
-              <item name="cornerstone" type="462c0819:PsiDirectoryNode" />
-              <item name="templates" type="462c0819:PsiDirectoryNode" />
-              <item name="components" type="462c0819:PsiDirectoryNode" />
-              <item name="blog" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="cornerstone" type="b2602c69:ProjectViewProjectNode" />
-              <item name="cornerstone" type="462c0819:PsiDirectoryNode" />
-              <item name="templates" type="462c0819:PsiDirectoryNode" />
-              <item name="components" type="462c0819:PsiDirectoryNode" />
-              <item name="brand" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="cornerstone" type="b2602c69:ProjectViewProjectNode" />
-              <item name="cornerstone" type="462c0819:PsiDirectoryNode" />
-              <item name="templates" type="462c0819:PsiDirectoryNode" />
-              <item name="components" type="462c0819:PsiDirectoryNode" />
-              <item name="cart" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="cornerstone" type="b2602c69:ProjectViewProjectNode" />
-              <item name="cornerstone" type="462c0819:PsiDirectoryNode" />
-              <item name="templates" type="462c0819:PsiDirectoryNode" />
-              <item name="components" type="462c0819:PsiDirectoryNode" />
-              <item name="cart" type="462c0819:PsiDirectoryNode" />
-              <item name="modals" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="cornerstone" type="b2602c69:ProjectViewProjectNode" />
-              <item name="cornerstone" type="462c0819:PsiDirectoryNode" />
-              <item name="templates" type="462c0819:PsiDirectoryNode" />
-              <item name="components" type="462c0819:PsiDirectoryNode" />
-              <item name="category" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="cornerstone" type="b2602c69:ProjectViewProjectNode" />
-              <item name="cornerstone" type="462c0819:PsiDirectoryNode" />
-              <item name="templates" type="462c0819:PsiDirectoryNode" />
-              <item name="components" type="462c0819:PsiDirectoryNode" />
-              <item name="common" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="cornerstone" type="b2602c69:ProjectViewProjectNode" />
-              <item name="cornerstone" type="462c0819:PsiDirectoryNode" />
-              <item name="templates" type="462c0819:PsiDirectoryNode" />
-              <item name="components" type="462c0819:PsiDirectoryNode" />
-              <item name="common" type="462c0819:PsiDirectoryNode" />
-              <item name="forms" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="cornerstone" type="b2602c69:ProjectViewProjectNode" />
-              <item name="cornerstone" type="462c0819:PsiDirectoryNode" />
-              <item name="templates" type="462c0819:PsiDirectoryNode" />
-              <item name="components" type="462c0819:PsiDirectoryNode" />
-              <item name="common" type="462c0819:PsiDirectoryNode" />
-              <item name="icons" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="cornerstone" type="b2602c69:ProjectViewProjectNode" />
-              <item name="cornerstone" type="462c0819:PsiDirectoryNode" />
-              <item name="templates" type="462c0819:PsiDirectoryNode" />
-              <item name="components" type="462c0819:PsiDirectoryNode" />
-              <item name="faceted-search" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="cornerstone" type="b2602c69:ProjectViewProjectNode" />
-              <item name="cornerstone" type="462c0819:PsiDirectoryNode" />
-              <item name="templates" type="462c0819:PsiDirectoryNode" />
-              <item name="components" type="462c0819:PsiDirectoryNode" />
-              <item name="faceted-search" type="462c0819:PsiDirectoryNode" />
-              <item name="facets" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="cornerstone" type="b2602c69:ProjectViewProjectNode" />
-              <item name="cornerstone" type="462c0819:PsiDirectoryNode" />
-              <item name="templates" type="462c0819:PsiDirectoryNode" />
-              <item name="components" type="462c0819:PsiDirectoryNode" />
-              <item name="gift-certificate" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="cornerstone" type="b2602c69:ProjectViewProjectNode" />
-              <item name="cornerstone" type="462c0819:PsiDirectoryNode" />
-              <item name="templates" type="462c0819:PsiDirectoryNode" />
-              <item name="components" type="462c0819:PsiDirectoryNode" />
-              <item name="page" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="cornerstone" type="b2602c69:ProjectViewProjectNode" />
-              <item name="cornerstone" type="462c0819:PsiDirectoryNode" />
-              <item name="templates" type="462c0819:PsiDirectoryNode" />
-              <item name="components" type="462c0819:PsiDirectoryNode" />
-              <item name="products" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="cornerstone" type="b2602c69:ProjectViewProjectNode" />
-              <item name="cornerstone" type="462c0819:PsiDirectoryNode" />
-              <item name="templates" type="462c0819:PsiDirectoryNode" />
-              <item name="components" type="462c0819:PsiDirectoryNode" />
-              <item name="products" type="462c0819:PsiDirectoryNode" />
-              <item name="customizations" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="cornerstone" type="b2602c69:ProjectViewProjectNode" />
-              <item name="cornerstone" type="462c0819:PsiDirectoryNode" />
-              <item name="templates" type="462c0819:PsiDirectoryNode" />
-              <item name="components" type="462c0819:PsiDirectoryNode" />
-              <item name="products" type="462c0819:PsiDirectoryNode" />
-              <item name="modals" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="cornerstone" type="b2602c69:ProjectViewProjectNode" />
-              <item name="cornerstone" type="462c0819:PsiDirectoryNode" />
-              <item name="templates" type="462c0819:PsiDirectoryNode" />
-              <item name="components" type="462c0819:PsiDirectoryNode" />
-              <item name="products" type="462c0819:PsiDirectoryNode" />
-              <item name="options" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="cornerstone" type="b2602c69:ProjectViewProjectNode" />
-              <item name="cornerstone" type="462c0819:PsiDirectoryNode" />
-              <item name="templates" type="462c0819:PsiDirectoryNode" />
-              <item name="components" type="462c0819:PsiDirectoryNode" />
+              <item name="stencil" type="462c0819:PsiDirectoryNode" />
               <item name="search" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="cornerstone" type="b2602c69:ProjectViewProjectNode" />
               <item name="cornerstone" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+              <item name="scss" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
+              <item name="stencil" type="462c0819:PsiDirectoryNode" />
+              <item name="socialLinks" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cornerstone" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cornerstone" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+              <item name="scss" type="462c0819:PsiDirectoryNode" />
+              <item name="layouts" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cornerstone" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cornerstone" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+              <item name="scss" type="462c0819:PsiDirectoryNode" />
+              <item name="layouts" type="462c0819:PsiDirectoryNode" />
+              <item name="header" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cornerstone" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cornerstone" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+              <item name="scss" type="462c0819:PsiDirectoryNode" />
+              <item name="settings" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cornerstone" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cornerstone" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cornerstone" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cornerstone" type="462c0819:PsiDirectoryNode" />
               <item name="templates" type="462c0819:PsiDirectoryNode" />
               <item name="components" type="462c0819:PsiDirectoryNode" />
-              <item name="sitemap" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="cornerstone" type="b2602c69:ProjectViewProjectNode" />
               <item name="cornerstone" type="462c0819:PsiDirectoryNode" />
               <item name="templates" type="462c0819:PsiDirectoryNode" />
               <item name="components" type="462c0819:PsiDirectoryNode" />
-              <item name="social" type="462c0819:PsiDirectoryNode" />
+              <item name="aima" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="cornerstone" type="b2602c69:ProjectViewProjectNode" />
               <item name="cornerstone" type="462c0819:PsiDirectoryNode" />
               <item name="templates" type="462c0819:PsiDirectoryNode" />
-              <item name="layout" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="cornerstone" type="b2602c69:ProjectViewProjectNode" />
-              <item name="cornerstone" type="462c0819:PsiDirectoryNode" />
-              <item name="templates" type="462c0819:PsiDirectoryNode" />
-              <item name="pages" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="cornerstone" type="b2602c69:ProjectViewProjectNode" />
-              <item name="cornerstone" type="462c0819:PsiDirectoryNode" />
-              <item name="templates" type="462c0819:PsiDirectoryNode" />
-              <item name="pages" type="462c0819:PsiDirectoryNode" />
-              <item name="account" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="cornerstone" type="b2602c69:ProjectViewProjectNode" />
-              <item name="cornerstone" type="462c0819:PsiDirectoryNode" />
-              <item name="templates" type="462c0819:PsiDirectoryNode" />
-              <item name="pages" type="462c0819:PsiDirectoryNode" />
-              <item name="account" type="462c0819:PsiDirectoryNode" />
-              <item name="orders" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="cornerstone" type="b2602c69:ProjectViewProjectNode" />
-              <item name="cornerstone" type="462c0819:PsiDirectoryNode" />
-              <item name="templates" type="462c0819:PsiDirectoryNode" />
-              <item name="pages" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
               <item name="amp" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="cornerstone" type="b2602c69:ProjectViewProjectNode" />
               <item name="cornerstone" type="462c0819:PsiDirectoryNode" />
               <item name="templates" type="462c0819:PsiDirectoryNode" />
-              <item name="pages" type="462c0819:PsiDirectoryNode" />
-              <item name="auth" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
+              <item name="amp" type="462c0819:PsiDirectoryNode" />
+              <item name="category" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cornerstone" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cornerstone" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
+              <item name="common" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="cornerstone" type="b2602c69:ProjectViewProjectNode" />
               <item name="cornerstone" type="462c0819:PsiDirectoryNode" />
               <item name="templates" type="462c0819:PsiDirectoryNode" />
               <item name="pages" type="462c0819:PsiDirectoryNode" />
-              <item name="errors" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="cornerstone" type="b2602c69:ProjectViewProjectNode" />
-              <item name="cornerstone" type="462c0819:PsiDirectoryNode" />
-              <item name="templates" type="462c0819:PsiDirectoryNode" />
-              <item name="pages" type="462c0819:PsiDirectoryNode" />
-              <item name="gift-certificate" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="cornerstone" type="b2602c69:ProjectViewProjectNode" />
-              <item name="cornerstone" type="462c0819:PsiDirectoryNode" />
-              <item name="templates" type="462c0819:PsiDirectoryNode" />
-              <item name="pages" type="462c0819:PsiDirectoryNode" />
-              <item name="unavailable" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -667,25 +534,25 @@
       <workItem from="1524677833502" duration="60630000" />
       <workItem from="1524845996161" duration="391000" />
       <workItem from="1524847480811" duration="49375000" />
-      <workItem from="1525099219843" duration="19869000" />
+      <workItem from="1525099219843" duration="42215000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="130265000" />
+    <option name="totallyTimeSpent" value="152611000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="266" y="34" width="1400" height="849" extended-state="0" />
+    <frame x="96" y="31" width="1552" height="848" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5011459" side_tool="true" weight="0.27222982" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.4988541" visible="true" weight="0.27023318" />
+      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.4988541" weight="0.2325856" />
       <window_info anchor="bottom" id="Code comment" order="7" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21091445" />
-      <window_info id="Project Explorer" order="2" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17108753" />
+      <window_info id="Project Explorer" order="2" weight="0.32964602" />
       <window_info id="Job Explorer" order="2" weight="0.32890856" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="right" id="JSON Utils" order="3" />
@@ -744,196 +611,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/templates/components/common/header.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="432">
-          <caret line="16" selection-start-line="16" selection-end-line="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/components/amp/css/header.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3969">
-          <caret line="147" column="21" lean-forward="true" selection-start-line="147" selection-start-column="21" selection-end-line="147" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/components/amp/common/header.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/js/theme/blog.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="2" column="47" selection-start-line="2" selection-start-column="47" selection-end-line="2" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/js/theme/global/Blog.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/js/theme/brand.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/js/theme/cart.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-3887" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/components/products/product-view.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="50" column="53" lean-forward="true" selection-start-line="50" selection-start-column="53" selection-end-line="50" selection-end-column="53" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/js/theme/search.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="e#0#51#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/components/amp/css/product.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-273" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/js/theme/product.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1539">
-          <caret line="63" lean-forward="true" selection-start-line="63" selection-end-line="63" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/components/amp/products/product-view.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="311">
-          <caret line="25" selection-start-line="25" selection-end-line="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/js/theme/account.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="80">
-          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/components/common/navigation-menu.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="17" selection-start-column="15" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/components/common/navigation-dropdown.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-4" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/components/common/navigation.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1355" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/components/amp/common/navigation-menu.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2619">
-          <caret line="97" selection-start-line="97" selection-start-column="4" selection-end-line="97" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/scss/components/foundation/top-bar/_top-bar.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="366">
-          <caret line="20" selection-start-line="20" selection-end-line="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/components/carousel-content.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="2" column="16" selection-start-line="2" selection-start-column="14" selection-end-line="2" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/components/products/bulk-discount-rates.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-73" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/components/common/breadcrumbs.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-3" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/components/common/paginator.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-339" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/components/common/search-box.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="297">
-          <caret line="11" column="7" lean-forward="true" selection-start-line="1" selection-end-line="11" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/pages/home.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-324" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/pages/search.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-3800" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/components/products/description-tabs.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-3" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/components/common/header.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="432">
-          <caret line="16" selection-start-line="16" selection-end-line="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/components/amp/css/header.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3969">
-          <caret line="147" column="21" selection-start-line="147" selection-start-column="21" selection-end-line="147" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/components/amp/common/header.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/js/theme/global/Blog.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="2" selection-start-line="2" selection-end-line="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/js/theme/blog.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="4" selection-start-line="4" selection-end-line="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/package.json">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/templates/components/products/featured.html">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -952,33 +629,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/assets/js/theme/category.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="313">
-          <caret line="21" column="31" selection-start-line="21" selection-start-column="31" selection-end-line="21" selection-end-column="31" />
-          <folding>
-            <element signature="e#0#51#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/components/products/card.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="223">
-          <caret line="24" column="48" lean-forward="true" selection-start-line="24" selection-start-column="48" selection-end-line="24" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/assets/scss/components/_components.scss">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/assets/scss/components/foundation/global/_component.scss">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/scss/components/foundation/global/_global.scss">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/scss/components/foundation/lazyLoad/_lazyLoad.scss">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/assets/scss/components/foundation/breadcrumbs/_breadcrumbs.scss">
@@ -988,44 +642,268 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/schema.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="151">
-          <caret line="1147" column="25" selection-start-line="1147" selection-start-column="25" selection-end-line="1147" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/templates/components/products/grid.html">
       <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/config.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="179" column="34" selection-start-line="179" selection-start-column="34" selection-end-line="179" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/components/products/carousel.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="513">
-          <caret line="19" column="37" selection-start-line="19" selection-start-column="37" selection-end-line="19" selection-end-column="37" />
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/templates/components/products/description.html">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/templates/components/products/card.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-7">
+          <caret line="24" column="28" selection-start-line="24" selection-start-column="28" selection-end-line="24" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/js/theme/category.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-7">
+          <caret line="19" column="29" selection-start-line="19" selection-start-column="29" selection-end-line="19" selection-end-column="29" />
+          <folding>
+            <element signature="e#0#51#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/schema.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-17">
+          <caret line="1147" column="25" selection-start-line="1147" selection-start-column="25" selection-end-line="1147" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/components/search/heading.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/components/page/rss_feed.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/components/amp/common/header.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/components/account/navigation.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1092" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/components/search/advanced-search.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1161" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/components/common/navigation-dropdown.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-147" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/components/common/navigation-menu.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="46" selection-start-column="46" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/scss/components/citadel/nav/_nav.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1975" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/scss/components/foundation/forms/_forms.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-450">
+          <caret line="9" column="21" lean-forward="true" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/scss/components/foundation/lazyLoad/_lazyLoad.scss">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/scss/components/stencil/navPages/_navPages.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-10249" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/scss/settings/global/layout/_layout.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-134" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/scss/settings/global/overlay/_overlay.scss">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/scss/settings/global/screensizes/_screensizes.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-112" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/scss/settings/stencil/heroCarousel/_settings.scss">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/scss/settings/stencil/navUser/_settings.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="5" column="54" selection-start-line="5" selection-start-column="54" selection-end-line="5" selection-end-column="91" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/scss/layouts/header/_header.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-7">
+          <caret line="93" column="20" selection-start-line="93" selection-start-column="20" selection-end-line="93" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/scss/components/stencil/navUser/_navUser.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-7">
+          <caret line="323" column="26" selection-start-line="323" selection-start-column="26" selection-end-line="323" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/scss/settings/stencil/productCarousel/_settings.scss">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/scss/components/foundation/pagination/_pagination.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3267" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/scss/components/foundation/global/_global.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-747" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/scss/components/stencil/socialLinks/_socialLinks.scss">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/components/products/carousel.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-215">
+          <caret line="19" column="37" selection-start-line="19" selection-start-column="37" selection-end-line="19" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/scss/components/aima/_component.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="28" lean-forward="true" selection-start-column="28" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/pages/page.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/scss/components/stencil/search/_search.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="235">
+          <caret line="52" column="24" selection-start-line="52" selection-start-column="24" selection-end-line="52" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/assets/scss/components/stencil/heroCarousel/_heroCarousel.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="172">
-          <caret line="149" column="62" lean-forward="true" selection-start-line="149" selection-start-column="62" selection-end-line="149" selection-end-column="62" />
+        <state relative-caret-position="262">
+          <caret line="146" column="24" selection-start-line="146" selection-start-column="2" selection-end-line="146" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/components/amp/common/navigation-menu.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2716">
+          <caret line="97" selection-start-line="97" selection-start-column="4" selection-end-line="97" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/pages/home.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="448">
+          <caret line="16" column="28" selection-start-line="16" selection-start-column="28" selection-end-line="16" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/scss/theme.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="541">
+          <caret line="88" selection-start-line="88" selection-end-line="88" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-246">
+          <caret line="75" column="24" lean-forward="true" selection-start-line="75" selection-start-column="24" selection-end-line="75" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/scss/components/aima/_temporaryCarousel.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="513">
+          <caret line="123" column="17" selection-start-line="123" selection-start-column="17" selection-end-line="123" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/components/common/footer.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6300">
+          <caret line="225" lean-forward="true" selection-start-line="225" selection-end-line="225" />
+          <folding>
+            <element signature="e#6495#6500#0" expanded="true" />
+            <element signature="e#12019#12025#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/components/common/header.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="812">
+          <caret line="29" column="332" lean-forward="true" selection-start-line="29" selection-start-column="10" selection-end-line="29" selection-end-column="332" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/scss/components/aima/bannerTemporary/_component.scss">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/components/aima/temporaryCarousel.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="9" column="6" lean-forward="true" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="6" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/templates/components/carousel.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="52">
-          <caret line="2" column="63" selection-start-line="2" selection-start-column="63" selection-end-line="2" selection-end-column="63" />
+        <state relative-caret-position="262">
+          <caret line="10" column="34" lean-forward="true" selection-start-line="10" selection-start-column="34" selection-end-line="10" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/scss/components/aima/bannerTemporary/_bannerTemporary.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="206">
+          <caret line="10" column="19" lean-forward="true" selection-start-line="10" selection-start-column="19" selection-end-line="10" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/components/aima/temporarybanner.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="3" column="22" selection-start-line="3" selection-start-column="22" selection-end-line="3" selection-end-column="22" />
+          <folding>
+            <element signature="e#117#123#0" expanded="true" />
+            <element signature="e#123#129#0" expanded="true" />
+            <element signature="e#129#135#0" expanded="true" />
+            <element signature="e#175#181#0" expanded="true" />
+            <element signature="e#181#187#0" expanded="true" />
+            <element signature="e#187#193#0" expanded="true" />
+            <element signature="e#280#286#0" expanded="true" />
+            <element signature="e#286#292#0" expanded="true" />
+            <element signature="e#292#298#0" expanded="true" />
+            <element signature="e#320#326#0" expanded="true" />
+            <element signature="e#326#332#0" expanded="true" />
+            <element signature="e#332#338#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

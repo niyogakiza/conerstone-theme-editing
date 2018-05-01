@@ -11,12 +11,18 @@ export default class Category extends CatalogPage {
             this.onSortBySubmit = this.onSortBySubmit.bind(this);
             hooks.on('sortBy-submitted', this.onSortBySubmit);
         }
+
+        $('.card-img-container').hover(function originalImage() {
+            $(this).attr('src', 'data-src');
+        }, function hoverImage() {
+            $(this).attr('src', 'data-hover');
+        });
         // let originalImage;
         // let imageHover;
         //
         // function imageSwither() {
-        //     originalImage = data-src;
-        //     imageHover = data-hover;
+        //     originalImage = this.data-src;
+        //     imageHover = this.data-hover;
         //     src = imageHover;
         // }
         // function restore() {
