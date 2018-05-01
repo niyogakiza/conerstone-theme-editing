@@ -17,17 +17,18 @@ export default class Category extends CatalogPage {
         }, function hoverImage() {
             $(this).attr('src', 'data-hover');
         });
-        // let originalImage;
-        // let imageHover;
-        //
-        // function imageSwither() {
-        //     originalImage = this.data-src;
-        //     imageHover = this.data-hover;
-        //     src = imageHover;
-        // }
-        // function restore() {
-        //
-        // }
+
+        const originalImage = document.querySelector('data-src');
+        const imageOnHover = new Image();
+        const originalSrc = originalImage.src;
+
+        imageOnHover.src = 'data-hover';
+        originalImage.onmouseover = function () {
+            document.querySelector('data-src').src = imageOnHover;
+        };
+        originalImage.onmouseout = function () {
+            document.querySelector('data-src').src = originalImage;
+        };
     }
 
     initFacetedSearch() {

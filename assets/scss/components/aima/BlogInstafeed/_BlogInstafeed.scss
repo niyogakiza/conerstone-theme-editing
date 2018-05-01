@@ -1,0 +1,23 @@
+@import '~bootstrap-sass';
+
+.instaimg img {
+  margin-bottom: 30px;
+}
+.instaimg img:hover {
+  opacity: 0.8;
+  -moz-opacity: 0.8;
+  -webkit-opacity: 0.8;
+}
+.home-recent-posts {
+  margin: 6.21429rem 0px 1.5rem;
+  overflow: hidden;
+}
+.page-heading {
+  display: table;
+  font-size: 28px;
+  line-height: 1;
+  margin: 0 0 3rem;
+  overflow-x: hidden;
+  width: 100%;
+  white-space: nowrap;
+}

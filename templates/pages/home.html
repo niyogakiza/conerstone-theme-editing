@@ -36,6 +36,8 @@ blog:
     {{#if products.new}}
         {{> components/products/new products=products.new columns=theme_settings.homepage_new_products_column_count}}
     {{/if}}
+
+    {{> components/aima/instafeedBlog}}
 </div>
 {{/partial}}
 {{> layout/base}}

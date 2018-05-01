@@ -87,6 +87,27 @@
     }
 }
 
+.socialLinks .header-logo-text {
+    display: inline;
+}
+.socialLinks{
+    float: left;
+    margin-left: 50px;
+}
+
+.form-input {
+    appearance: none;
+    background-color: #fff;
+    border-color: #dfdfdf;
+    color: #454545;
+    font-size: 1rem;
+    font-smoothing: antialiased;
+    height: 3rem;
+    padding: .75rem 1rem;
+    transition: border-color .1s ease-out;
+    width: 100%;
+}
+
 .header-logo--left {
     text-align: left;
     top: 0;
@@ -127,8 +148,10 @@
     text-overflow: ellipsis;
     text-transform: uppercase;
     white-space: nowrap;
+    max-width: 0;
+    transition: all 0.5s;
 
-    @include breakpoint("small") {
+    @include breakpoint("medium") {
         font-size: $fontSize-logo-medium;
         letter-spacing: remCalc(9px);
         padding-bottom: 0;

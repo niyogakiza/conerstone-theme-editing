@@ -8,6 +8,7 @@ import _ from 'lodash';
 import swal from 'sweetalert2';
 import Wishlist from '../wishlist';
 
+
 export default class ProductDetails {
     constructor($scope, context, productAttributesData = {}) {
         this.$overlay = $('[data-cart-item-add] .loadingOverlay');

@@ -18,6 +18,7 @@
     top: 26px; // 2
     width: 100%; // 4
     z-index: zIndex("lowest"); // 5.
+    text-align: center;
 
     @include breakpoint("medium") {
         padding: 0 spacing("single");
@@ -67,7 +68,8 @@
     padding: spacing("base") spacing("half");
     text-decoration: none;
     text-transform: uppercase;
-    float: bottom;
+    //float: bottom;
+    //text-align: center;
 
     &:hover,
     &.is-open {
