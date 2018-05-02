@@ -14,6 +14,7 @@ import privacyCookieNotification from './global/cookieNotification';
 import maintenanceMode from './global/maintenanceMode';
 import carousel from './common/carousel';
 import stickyMenu from './common/sticky-menu';
+import newsletter from './common/newsletter-modal';
 import category from './category';
 import product from './product';
 import 'lazysizes';
@@ -41,6 +42,7 @@ export default class Global extends PageManager {
         compareProducts(this.context.urls);
         carousel();
         stickyMenu();
+        newsletter();
         category();
         product();
         menu();

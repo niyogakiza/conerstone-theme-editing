@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="JavaScriptLibraryMappings">
-    <file url="PROJECT" libraries="{amp-analytics-0.1, amp-form-0.1, amp-sidebar-0.1}" />
+    <file url="PROJECT" libraries="{amp-analytics-0.1, amp-form-0.1, amp-sidebar-0.1, jquery.colorbox, js.cookie}" />
   </component>
 </project>

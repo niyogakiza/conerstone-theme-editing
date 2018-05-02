@@ -11,5 +11,7 @@
     <orderEntry type="library" name="amp-form-0.1" level="application" />
     <orderEntry type="library" name="amp-sidebar-0.1" level="application" />
     <orderEntry type="library" name="amp-analytics-0.1" level="application" />
+    <orderEntry type="library" name="jquery.colorbox" level="application" />
+    <orderEntry type="library" name="js.cookie" level="application" />
   </component>
 </module>
