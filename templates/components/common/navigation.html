@@ -1,5 +1,8 @@
 <nav class="navUser">
     {{> components/common/currency-selector}}
+    <div class="help">
+        <strong>{{lang 'header.need_some_help'phone_number=settings.phone_number}}</strong>
+    </div>
 
     <ul class="navUser-section navUser-section--alt">
         {{#if customer.store_credit.value '>' 0}}

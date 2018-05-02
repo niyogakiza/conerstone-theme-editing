@@ -29,6 +29,16 @@
         z-index: zIndex("high");
     }
 
+    .help{
+        font-size: medium;
+        color: #cccccc;
+        font-weight: bold;
+        font-family: "Helvetica Neue", sans-serif;
+        float: left;
+        margin-top: 13px;
+        margin-left: 30px;
+    }
+
     .dropdown-menu {
         background-color: stencilColor("navUser-dropdown-backgroundColor");
         border: 1px solid stencilColor("navUser-dropdown-borderColor");

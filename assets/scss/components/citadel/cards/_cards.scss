@@ -58,6 +58,7 @@
     margin: $card-title-margin;
 
     > a {
+        display: none;
         color: $card-title-color;
         text-decoration: $card-title-textDecoration;
 
@@ -70,6 +71,10 @@
 
 .card-text {
     margin-bottom: $card-text-marginBottom;
+    font-family: "Consolas", "Menlo", "Courier", monospace;
+    font-size: medium;
+    text-align: center;
+    font-weight: bold;
 
     abbr {
         border: 0;

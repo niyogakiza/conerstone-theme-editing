@@ -87,24 +87,24 @@
     }
 }
 
-.socialLinks .header-logo-text {
+.socialLinks .header-logo-text .form-input{
     display: inline;
 }
 .socialLinks{
-    float: left;
-    margin-left: 50px;
+    float: right;
+    margin-right: 50px;
 }
 
 .form-input {
-    appearance: none;
+    //appearance: none;
     background-color: #fff;
     border-color: #dfdfdf;
     color: #454545;
     font-size: 1rem;
-    font-smoothing: antialiased;
+    //font-smoothing: antialiased;
     height: 3rem;
-    padding: .75rem 1rem;
-    transition: border-color .1s ease-out;
+    //padding: .75rem 1rem;
+    //transition: border-color .1s ease-out;
     width: 100%;
 }
 

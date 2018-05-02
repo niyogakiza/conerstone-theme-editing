@@ -40,6 +40,7 @@
 
     @include breakpoint("medium") {
         width: width("4/12");
+
     }
 
     > :first-child {
@@ -87,7 +88,7 @@
 .footer-info-heading {
     color: $footer-heading-fontColor;
     font-size: fontSize("base");
-    text-transform: inherit;
+    text-transform: uppercase;
 }
 
 .footer-info-list {
@@ -132,7 +133,8 @@
 }
 
 .footer-payment-icons {
-    height: remCalc(40);
+    height: remCalc(50);
+    text-align: center;
     margin-top: spacing("single");
 
     @include breakpoint("medium") {
