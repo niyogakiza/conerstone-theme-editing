@@ -27,9 +27,29 @@ button.button:hover{
   background-color: #3a945b;
 }
 #cboxLoadedContent {
+  overflow:auto;
+  -webkit-overflow-scrolling: touch;
   display: block;
   padding: 10px;
   background: #ffff00;
+}
+#cboxContent{
+  position:relative;
+}
+#cboxLoadingOverlay,
+#cboxLoadingGraphic{
+  position:absolute;
+  top:0;
+  left:0;
+  width:100%;
+  height:100%;
+}
+#colorbox,
+#cboxContent,
+#cboxLoadedContent{
+  box-sizing:content-box;
+  -moz-box-sizing:content-box;
+  -webkit-box-sizing:content-box;
 }
 
 #modalNewsletter{

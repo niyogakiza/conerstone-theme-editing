@@ -2,16 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c374b2aa-0658-4e00-91bd-a8a4f95a2db8" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/assets/js/theme/common/newsletter-modal.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/cornerstone.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/cornerstone.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/js/theme/global.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/js/theme/global.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/scss/components/aima/_temporaryCarousel.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/scss/components/aima/_temporaryCarousel.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/assets/scss/components/aima/newsletterPopup/_newsletterPopup.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/scss/components/aima/newsletterPopup/_newsletterPopup.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/components/aima/newsletterPopup.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/components/aima/newsletterPopup.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/layout/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/layout/base.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -37,7 +28,7 @@
       <file leaf-file-name="newsletter-modal.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/assets/js/theme/common/newsletter-modal.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="425">
+            <state relative-caret-position="1148">
               <caret line="41" column="6" selection-start-line="41" selection-start-column="6" selection-end-line="41" selection-end-column="6" />
               <folding>
                 <element signature="e#0#32#0" expanded="true" />
@@ -58,8 +49,8 @@
       <file leaf-file-name="_newsletterPopup.scss" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/assets/scss/components/aima/newsletterPopup/_newsletterPopup.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="140">
-              <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+            <state relative-caret-position="165">
+              <caret line="31" column="17" lean-forward="true" selection-start-line="31" selection-start-column="17" selection-end-line="31" selection-end-column="17" />
             </state>
           </provider>
         </entry>
@@ -77,7 +68,7 @@
         <entry file="file://$PROJECT_DIR$/templates/components/aima/newsletterPopup.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="112">
-              <caret line="4" column="52" lean-forward="true" selection-start-line="4" selection-start-column="52" selection-end-line="4" selection-end-column="52" />
+              <caret line="4" column="52" selection-start-line="4" selection-start-column="52" selection-end-line="4" selection-end-column="52" />
             </state>
           </provider>
         </entry>
@@ -210,7 +201,7 @@
     </packageJsonPaths>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="85" />
+    <option name="x" value="84" />
     <option name="y" value="22" />
     <option name="width" value="1552" />
     <option name="height" value="857" />
@@ -658,12 +649,12 @@
       <workItem from="1524677833502" duration="60630000" />
       <workItem from="1524845996161" duration="391000" />
       <workItem from="1524847480811" duration="49375000" />
-      <workItem from="1525099219843" duration="97263000" />
+      <workItem from="1525099219843" duration="97602000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="207659000" />
+    <option name="totallyTimeSpent" value="207998000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="85" y="22" width="1552" height="857" extended-state="0" />
@@ -673,9 +664,9 @@
       <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5011459" side_tool="true" weight="0.27222982" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.4988541" weight="0.3742621" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" sideWeight="0.4988541" visible="true" weight="0.37313432" />
       <window_info anchor="bottom" id="Code comment" order="7" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17108753" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17108753" />
       <window_info id="Project Explorer" order="2" weight="0.32964602" />
       <window_info id="Job Explorer" order="2" weight="0.32890856" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
@@ -1005,13 +996,13 @@
     <entry file="file://$PROJECT_DIR$/templates/components/aima/newsletterPopup.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="112">
-          <caret line="4" column="52" lean-forward="true" selection-start-line="4" selection-start-column="52" selection-end-line="4" selection-end-column="52" />
+          <caret line="4" column="52" selection-start-line="4" selection-start-column="52" selection-end-line="4" selection-end-column="52" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/assets/js/theme/common/newsletter-modal.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
+        <state relative-caret-position="1148">
           <caret line="41" column="6" selection-start-line="41" selection-start-column="6" selection-end-line="41" selection-end-column="6" />
           <folding>
             <element signature="e#0#32#0" expanded="true" />
@@ -1021,8 +1012,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/assets/scss/components/aima/newsletterPopup/_newsletterPopup.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="140">
-          <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+        <state relative-caret-position="165">
+          <caret line="31" column="17" lean-forward="true" selection-start-line="31" selection-start-column="17" selection-end-line="31" selection-end-column="17" />
         </state>
       </provider>
     </entry>
